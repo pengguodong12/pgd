@@ -1,0 +1,7 @@
+#include <iostream>
+using namwspace std;
+
+int main(void){
+    cout<<"Hello, world!";
+    return 0;
+}
